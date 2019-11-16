@@ -8,3 +8,6 @@ c++
 
 MySql
 sql
+
+Python
+json
