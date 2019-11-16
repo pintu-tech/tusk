@@ -8,5 +8,3 @@ c++
 
 MySql
 sql
-
-Thanks you
